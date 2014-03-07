@@ -1,0 +1,6 @@
+name: fibonacci_iterator
+version: 1.0.0
+author: Paul Fryzel <paul.fryzel@gmail.com>
+description: A Fibonacci number iterator.
+dependencies:
+  unittest: any
