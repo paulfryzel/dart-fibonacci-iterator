@@ -8,7 +8,7 @@ A [Fibonacci number](http://en.wikipedia.org/wiki/Fibonacci_number) iterator.
     
 ## Tests
 
-    dart -c test/fibonacci_iterator_test.dart
+    ./test/run.sh
 
 ## License
 
