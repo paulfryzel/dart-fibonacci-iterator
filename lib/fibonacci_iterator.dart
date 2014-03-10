@@ -1,7 +1,7 @@
 library fibonacci_iterator;
 
-class FibonacciIterator<Integer> implements Iterator<Integer> {
-  int _current = 1;
+class FibonacciIterator implements Iterator<int> {
+  int _current = 0;
   int _next = 1;
 
   bool moveNext() {
