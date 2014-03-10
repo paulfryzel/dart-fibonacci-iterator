@@ -1,0 +1,7 @@
+2014.03.09, Version 1.1.0
+
+iterator: Update iterator to count from zero like dart:core
+
+2014.03.07, Version 1.0.0
+
+project: Initial release
