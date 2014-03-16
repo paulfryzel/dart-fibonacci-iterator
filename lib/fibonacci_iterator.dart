@@ -16,9 +16,9 @@ class FibonacciIterator implements Iterator<int> {
       return true;
     } else if (_index < _count) {
       _index++;
-      int next_next = _current + _next;
+      final int _temp = _current + _next;
       _current = _next;
-      _next = next_next;
+      _next = _temp;
        return true;
     } else {
       _current = null;
